@@ -1,0 +1,32 @@
+_repo: XII-conti-pomiglianesi-con-varianti-avellinesi-montellesi-bagnolesi-milanesi-toscane-ecc_62477
+_version: 0.0.1
+alternative_title:
+- 12 conti pomiglianesi con varianti avellinesi, montellesi, bagnolesi, milanesi,
+  toscane, leccesi, ecc.
+- Dodici conti pomiglianesi con varianti avellinesi, montellesi, bagnolesi, milanesi,
+  toscane, leccesi, ecc.
+creator:
+  author:
+    agent_name: Imbriani, Vittorio
+    birthdate: 1840
+    deathdate: 1886
+    gutenberg_agent_id: '37065'
+    url: http://www.gutenberg.org/2009/agents/37065
+    wikipedia: http://it.wikipedia.org/wiki/Vittorio_Imbriani
+description: ''
+gutenberg_issued: '2020-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62477'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Folk literature, Italian -- Italy -- Pomigliano d''Arco'
+- GITenberg
+title: 'XII conti pomiglianesi
+
+  con varianti avellinesi, montellesi, bagnolesi, milanesi, toscane, ecc.'
+url: http://www.gutenberg.org/ebooks/62477
